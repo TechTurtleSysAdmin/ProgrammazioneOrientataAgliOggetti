@@ -11,7 +11,4 @@
 * Abbiamo veramente realizzato una classe coppia che permette di gestire coppie di oggetti del medesimo tipo? :question: [src/com/example/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) :eyes:
 	* Come risultato abbiamo ottenuto una classe che accetta una coppia di oggetti che **non** devono essere necessariamente dello stesso tipo.
 * Come si definisce una classe generica? :question:
-	* ```java
-	public class <T> coppia{
-		...
-	}```
+	* ```public class <T> coppia{...}```
