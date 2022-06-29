@@ -1,3 +1,3 @@
 # ProgrammazioneOrientataAgliOggetti
 # **GENERICS**
-<span style="color: green"> Some green text </span>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
