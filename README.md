@@ -7,4 +7,5 @@
 	* Metodi per poter ottenere/cambiare il primo/secondo elemento della coppia.
 	* Un costruttore che riceve come parametri due riferimenti ad oggetti del medesimo tipo.
 		* Guardare in [src/com/example/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/tree/main/src/com/example/coppia) per vedere come è stata realizzata la classe coppia :white_check_mark:	
-* Leggere e comprendere i test che sono stati per la classe coppia [test/com/test/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaSenzaGenericsTest.java) :books: :eyes: 
+* Leggere e comprendere i test che sono stati per la classe coppia [test/com/test/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaSenzaGenericsTest.java) :books: :eyes:
+* Abbiamo veramente realizzato una classe coppia che permette di gestire coppie di oggetti del medesimo tipo? :eyes: [src/com/example/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) :question:

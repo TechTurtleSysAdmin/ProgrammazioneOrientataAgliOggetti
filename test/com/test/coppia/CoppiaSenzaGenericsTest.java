@@ -40,7 +40,7 @@ public class CoppiaSenzaGenericsTest {
 		String pippo = new String("pippo");
 		String pluto = new String("pluto");
 		Persona p1 = new Persona(pippo);
-		coppia.setPrimo(pippo);                 //guardate cosa è stato messo qui come primo oggetto 
+		coppia.setPrimo(pippo);                 //Viene messa la variabile pippo che è di tipo statico String sottotipo del tipo Object  
 		Persona p2 = new Persona(pluto);
 		coppia.setSecondo(p2);
 		assertSame(pippo,((Persona)coppia.getPrimo()).getNome());  //classCastException a tempo di esecuzione, dovuto al fatto che stiamo castando una Stringa in Persona
