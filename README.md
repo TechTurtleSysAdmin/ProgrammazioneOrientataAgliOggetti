@@ -12,3 +12,6 @@
 	* Come risultato abbiamo ottenuto una classe che accetta una coppia di oggetti che **non** devono essere necessariamente dello stesso tipo. :white_check_mark:
 * Come si definisce una classe generica? :question:
 	* ```public class Coppia<T>{...}``` :white_check_mark:
+* Cosa indica il simbolo T all' interno della definizione della classe Coppia?  :question:
+	* Il tipo sulla base del quale la definizione di classe è parametrica. :white_check_mark:
+* Refactor della classe Coppia parametrizzata. [] :books: :eyes: 
