@@ -1,3 +1,3 @@
 # ProgrammazioneOrientataAgliOggetti
-GENERICS
-<span style="color: green"> Some green text </span>
+**GENERICS**
+
