@@ -18,7 +18,7 @@ public class CoppiaSenzaGenericsTest {
 		coppia.setPrimo(p1);
 		Persona p2 = new Persona(pluto);
 		coppia.setSecondo(p2);
-		Persona persona = (Persona)coppia.getPrimo();  //downcast da Object a Persona per poter utilizzare i metodi di persona del primo oggetto persona
+		Persona persona = (Persona)coppia.getPrimo();  //downcast da Object a Persona per poter utilizzare i metodi del primo oggetto persona
 		assertSame(pippo,persona.getNome()); // verifica che abbiano lo stesso riferimento
 	}
 
