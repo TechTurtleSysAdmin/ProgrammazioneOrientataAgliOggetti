@@ -1,3 +1,4 @@
 # ProgrammazioneOrientataAgliOggetti
 # **GENERICS**
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#ciaociao`
+- Cosa sono i generics? :dizzy_face:
+Sono uno strumento per scrivere classi e metodi parametriche rispetto a un tipo
