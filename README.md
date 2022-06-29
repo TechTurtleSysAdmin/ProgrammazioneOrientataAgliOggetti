@@ -14,4 +14,4 @@
 	* ```public class Coppia<T>{...}``` :white_check_mark:
 * Cosa indica il simbolo T all' interno della definizione della classe Coppia?  :question:
 	* Il tipo sulla base del quale la definizione di classe è parametrica. :white_check_mark:
-* Refactor della classe Coppia parametrizzata. [src/com/example/coppia/](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/CoppiaP.java) :books: :eyes: 
+* Refactor della classe Coppia resa parametrizzata. [src/com/example/coppia/](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/CoppiaP.java) :books: :eyes: 
