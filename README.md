@@ -9,6 +9,6 @@
 		* Guardare in [src/com/example/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/tree/main/src/com/example/coppia) per vedere come è stata realizzata la classe coppia :white_check_mark:	
 * Leggere e comprendere i test che sono stati per la classe coppia [test/com/test/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaSenzaGenericsTest.java) :books: :eyes:
 * Abbiamo veramente realizzato una classe coppia che permette di gestire coppie di oggetti del medesimo tipo? :question: [src/com/example/coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) :eyes:
-	* Come risultato abbiamo ottenuto una classe che accetta una coppia di oggetti che **non** devono essere necessariamente dello stesso tipo.
+	* Come risultato abbiamo ottenuto una classe che accetta una coppia di oggetti che **non** devono essere necessariamente dello stesso tipo. :white_check_mark:
 * Come si definisce una classe generica? :question:
 	* ```public class Coppia<T>{...}``` :white_check_mark:
