@@ -11,7 +11,7 @@ import com.example.persona.Persona;
 public class CoppiaGenericsTest {
 
 	@Test
-	public void test() {
+	public void testCoppiaDiPersone() {
 		CoppiaP<Persona> coppia;
 		Persona p1 = new Persona("pippo");
 		Persona p2 = new Persona("Pluto");
