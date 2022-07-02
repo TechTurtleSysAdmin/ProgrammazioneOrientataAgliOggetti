@@ -7,9 +7,9 @@
 	* Metodi per poter ottenere/cambiare il primo/secondo elemento della coppia. :wrench:
 	* Un costruttore che riceve come parametri due riferimenti ad oggetti del medesimo tipo. :wrench:
 		
-	* Soluzione: [coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) :books: :eyes: :white_check_mark:	
+	* Soluzione: [Coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) :books: :eyes: :white_check_mark:	
 * Leggere e comprendere i test che sono stati fatti per la classe coppia [coppiaSenzaGenericsTest](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaSenzaGenericsTest.java) :books: :eyes:
-* Abbiamo veramente realizzato una classe coppia che permette di gestire coppie di oggetti del medesimo tipo? :question: [coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) :eyes:
+* Abbiamo veramente realizzato una classe coppia che permette di gestire coppie di oggetti del medesimo tipo? :question: [coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) :books: :eyes:
 	* Come risultato abbiamo ottenuto una classe che accetta una coppia di oggetti che **non** devono essere necessariamente dello stesso tipo. :white_check_mark:
 * Come si definisce una classe generica? :question:
 	* ```public class Coppia<T>{...}``` :white_check_mark:
