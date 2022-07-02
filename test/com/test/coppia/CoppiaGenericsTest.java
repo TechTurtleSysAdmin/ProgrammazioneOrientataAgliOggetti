@@ -31,5 +31,13 @@ public class CoppiaGenericsTest {
 		coppia.setPrimo(pippo);
 		
 	}
+	
+	@Test
+	public void testCheNonCompila() {
+		CoppiaP<int> coppia;  	//non è possibile metterci un tipo primitivo, gli dobbiamo per forza passare il tipo di una classe
+		int a = 1;
+		int b = 2;
+		coppia = new CoppiaP<int>(a,b);
+	}
 
 }
