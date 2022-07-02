@@ -58,7 +58,7 @@ Integer wrap;
 wrap = new Integer(i);
 wrap = new Integer(5);
 ```
-* Cosa significa fare **unboxing**? Mostrare un esempio. :question: + :wrech:
+* Cosa significa fare **unboxing**? Mostrare un esempio. :question: + :wrench:
 	* assegnare direttamente oggetti oggetti wrapper a tipi primitivi. :white_check_mark:
 ```
 int i = 0;
