@@ -4,6 +4,10 @@ public class CoppiaP <T> {
 	private T primo;
 	private T secondo;
 	
+	public CoppiaP() {
+		
+	}
+	
 	public CoppiaP(T primo, T secondo) {
 		this.primo = primo;
 		this.secondo = secondo;

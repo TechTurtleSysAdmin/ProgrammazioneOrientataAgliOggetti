@@ -19,5 +19,17 @@ public class CoppiaGenericsTest {
 		assertSame(p1,coppia.getPrimo());
 		assertSame(p2,coppia.getSecondo());
 	}
+	
+	@Test
+	public void testCheSmetteDiCompilare() {
+		CoppiaP<Persona> coppia;
+		String pippo = new String("pippo");
+		String pluto = new String("pluto");
+		Persona p1 = new Persona(pippo);
+		Persona p2 = new Persona(pluto);
+		coppia = new CoppiaP<Persona>();
+		coppia.setPrimo(pippo);
+		
+	}
 
 }
