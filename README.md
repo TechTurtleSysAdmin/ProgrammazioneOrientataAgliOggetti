@@ -5,7 +5,7 @@
 	* Sono uno strumento per scrivere classi e metodi parametriche rispetto a un tipo. :white_check_mark:
 * Costruire una classe Coppia che deve offrire dei metodi per gestire una coppia di oggetti del medesimo tipo:   :wrench:
 	* Metodi per poter ottenere/cambiare il primo/secondo elemento della coppia. :wrench:
-	* Un costruttore che riceve come parametri due riferimenti ad oggetti del medesimo tipo. :wrech:
+	* Un costruttore che riceve come parametri due riferimenti ad oggetti del medesimo tipo. :wrench:
 		
 	* Guardare in [coppia](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/Coppia.java) per vedere come è stata realizzata la classe coppia :white_check_mark:	
 * Leggere e comprendere i test che sono stati fatti per la classe coppia [coppiaSenzaGenericsTest](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaSenzaGenericsTest.java) :books: :eyes:
