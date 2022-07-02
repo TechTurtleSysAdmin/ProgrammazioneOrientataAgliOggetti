@@ -29,4 +29,8 @@
 
 	<img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/wrapper.png" width="350" height="200">
 * Creare un oggetto di un tipo primitivo attraverso l' uso delle classi wrapper. :wrench:
-	* ```int i;i = 18;Integer iwrap = new Integer(i);```
+```
+int i;
+i = 18;
+Integer iwrap = new Integer(i);
+```
