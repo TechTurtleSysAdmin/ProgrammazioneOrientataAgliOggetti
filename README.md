@@ -25,6 +25,10 @@
 * Come si definiscono classi, intefacce e metodi generici con più parametri?  :question:
 	* ```public class Esempio<T,S>{...}``` :white_check_mark:
 * Cosa sono le classi Wrapper? :question:
-	* Non sono altro che la rappresentazione dei tipi primitivi sottoforma di classe e permettono di "oggettificare" il tipo primitivo. :white_check_mark:  
+	* Non sono altro che la rappresentazione dei tipi primitivi sottoforma di classe e ci permettono di "oggettificare" il tipo primitivo. :white_check_mark:  
 
 	<img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/wrapper.png" width="350" height="200">
+* Creare un oggetto di un tipo primitivo attraverso l' uso delle classi wrapper. :wrench:
+```int i;
+i = 18;
+Integer iwrap = new Integer(i);```
