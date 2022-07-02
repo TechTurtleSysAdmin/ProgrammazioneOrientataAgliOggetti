@@ -8,7 +8,7 @@ import org.junit.Test;
 import com.example.coppia.CoppiaP;
 import com.example.persona.Persona;
 
-public class CoppiaPTest {
+public class CoppiaGenericsTest {
 
 	@Test
 	public void test() {

@@ -15,4 +15,4 @@
 * Cosa indica il simbolo T all' interno della definizione della classe Coppia?  :question:
 	* Il tipo sulla base del quale la definizione di classe è parametrica. :white_check_mark:
 * Refactor della classe Coppia resa parametrizzata. [src/com/example/coppia/](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/src/com/example/coppia/CoppiaP.java) :books: :eyes:
-* Quando andiamo ad istanziare una classe generica, dobbiamo dobbiamo sostituire il tipo formale con il tipo attuale, dove il tipo attuale, andrà a sostituire tutti i tipi formali (guardare e comprendere il test [testCoppiaDiPersone]()):books: :eyes: 
+* Quando andiamo ad istanziare una classe generica, dobbiamo dobbiamo sostituire il tipo formale con il tipo attuale, dove il tipo attuale, andrà a sostituire tutti i tipi formali (vedere il test [testCoppiaDiPersone]()):books: :eyes: 
