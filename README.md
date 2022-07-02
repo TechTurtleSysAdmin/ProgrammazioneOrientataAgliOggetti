@@ -43,7 +43,7 @@ Integer iwrap = new Integer(i);
 * Perchè stiamo parlando delle classi wrapper nell' argomento dei Generics?
 	* [testCheNonCompila](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaGenericsTest.java) :books: :eyes:
 	* [testCheCompila](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaGenericsTest.java) :books: :eyes:
-* Cosa significa fare boxing? Mostrare un esempio. :question: + :wrench:
+* Cosa significa fare **boxing**? Mostrare un esempio. :question: + :wrench:
 	* Poter assegnare direttamente i tipi primitivi ad oggetti wrapper. :white_check_mark:
 ```
 int i = 0;
@@ -58,7 +58,7 @@ Integer wrap;
 wrap = new Integer(i);
 wrap = new Integer(5);
 ```
-* Cosa significa fare unboxing? Mostrare un esempio. :question: + :wrech:
+* Cosa significa fare **unboxing**? Mostrare un esempio. :question: + :wrech:
 	* assegnare direttamente oggetti oggetti wrapper a tipi primitivi. :white_check_mark:
 ```
 int i = 0;
