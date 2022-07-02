@@ -24,3 +24,5 @@
 	* Il legame fra **tipi** formali e attuali viene fatto dal compilatore a tempo di compilazione. :white_check_mark:
 * Come si definiscono classi, intefacce e metodi generici con più parametri?  :question:
 	* ```public class Esempio<T,S>{...}``` :white_check_mark:
+* Cosa sono le classi Wrapper? :question:
+	* Non sono altro che la rappresentazione dei tipi primitivi sottoforma di classe. :white_check_mark:  ![alt text]
