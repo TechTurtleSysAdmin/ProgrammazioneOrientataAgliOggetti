@@ -27,4 +27,4 @@
 * Cosa sono le classi Wrapper? :question:
 	* Non sono altro che la rappresentazione dei tipi primitivi sottoforma di classe e permettono di "oggettificare" il tipo primitivo. :white_check_mark:  
 
-	<img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/wrapper.png" width="300" height="200">
+	<img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/wrapper.png" width="350" height="200">
