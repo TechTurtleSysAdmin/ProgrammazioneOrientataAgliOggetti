@@ -36,3 +36,9 @@ Integer iwrap = new Integer(i);
 ```
 * In quale package sono definite le classi wrapper? :question:
 	* Nel package java.lang :white_check_mark:
+* Quali sono i metodi più frequentemente usati delle classi wrapper?
+	* xxxValue()
+	* valueOf()
+	* equals()
+* Perchè stiamo parlando delle classi wrapper nell' argomento dei Generics?
+	* [testCheNonCompila]()
