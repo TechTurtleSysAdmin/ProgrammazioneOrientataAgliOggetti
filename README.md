@@ -34,3 +34,5 @@ int i;
 i = 18;
 Integer iwrap = new Integer(i);
 ```
+* In quale package sono definite le classi wrapper? :question:
+	* Nel package java.lang :white_check_mark:
