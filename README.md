@@ -40,7 +40,7 @@ Integer iwrap = new Integer(i);
 	* xxxValue()
 	* valueOf()
 	* equals()
-* Perchè stiamo parlando delle classi wrapper nell' argomento dei Generics?
+* Perchè stiamo parlando delle classi wrapper nell' argomento dei Generics? :question:
 	* [testCheNonCompila](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaGenericsTest.java) :books: :eyes:
 	* [testCheCompila](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaGenericsTest.java) :books: :eyes:
 * Cosa significa fare **boxing**? Mostrare un esempio. :question: + :wrench:
