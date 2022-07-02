@@ -42,3 +42,5 @@ Integer iwrap = new Integer(i);
 	* equals()
 * Perchè stiamo parlando delle classi wrapper nell' argomento dei Generics?
 	* [testCheNonCompila](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaGenericsTest.java) :books: :eyes:
+	* [testCheCompila]()
+* 	

@@ -39,5 +39,13 @@ public class CoppiaGenericsTest {
 		int b = 2;
 		coppia = new CoppiaP<int>(a,b);
 	}
+	
+	@Test
+	public void testCheCompila() {
+		CoppiaP<Integer> coppia;  //compila correttamente perchè viene passato il tipo di una classe
+		int a = 1;
+		int b = 2;
+		coppia = new CoppiaP<Integer>(a,b);
+	}
 
 }
