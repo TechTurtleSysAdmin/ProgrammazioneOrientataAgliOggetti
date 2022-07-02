@@ -25,4 +25,4 @@
 * Come si definiscono classi, intefacce e metodi generici con più parametri?  :question:
 	* ```public class Esempio<T,S>{...}``` :white_check_mark:
 * Cosa sono le classi Wrapper? :question:
-	* Non sono altro che la rappresentazione dei tipi primitivi sottoforma di classe. :white_check_mark:  ![alt text](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/wrapper.png)
+	* Non sono altro che la rappresentazione dei tipi primitivi sottoforma di classe. :white_check_mark:  ![alt text](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/wrapper.png)<img src="https://your-image-url.type" width="100" height="100">
