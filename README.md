@@ -22,3 +22,5 @@
 * Quale è la differenza fra **parametri** formali/attuali e **tipi** formali/attuali?  :question:
 	* Il legame fra **parametri** formali e attuali è operato dalla JVM  a tempo di esecuzione. :white_check_mark:
 	* Il legame fra **tipi** formali e attuali viene fatto dal compilatore a tempo di compilazione. :white_check_mark:
+* Come si definiscono classi, intefacce e metodi generici con più parametri?  :question:
+	* ```public class Esempio<T,S>{...}```
