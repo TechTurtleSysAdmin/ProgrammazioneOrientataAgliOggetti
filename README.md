@@ -1,5 +1,6 @@
 # ProgrammazioneOrientataAgliOggetti
-### <a name="GENERICS"></a> prova
+### RIFERIMENTI
+[GENERICS](#GENERICS)
 <!--- GENERICS --->
 # **GENERICS**
 * Cosa sono i Generics? :question:
