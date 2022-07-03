@@ -1,4 +1,5 @@
 # ProgrammazioneOrientataAgliOggetti
+<a name="GENERICS">GENERICS</a>
 <!--- GENERICS --->
 # **GENERICS**
 * Cosa sono i Generics? :question:
