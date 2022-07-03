@@ -41,7 +41,7 @@ Integer iwrap = new Integer(i);
 	* xxxValue()
 	* valueOf()
 	* equals()
-* Perchè stiamo parlando delle classi wrapper nell' argomento dei Generics? :question:
+* Perchè stiamo parlando delle classi wrapper nei Generics? :question:
 	* [testCheNonCompila](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaGenericsTest.java) :books: :eyes:
 	* [testCheCompila](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/CoppiaGenericsTest.java) :books: :eyes:
 * Cosa significa fare **boxing**? Mostrare un esempio. :question: + :wrench:
@@ -74,4 +74,19 @@ Integer wrap;
 wrap = new Integer(5);
 i = wrap.intValue();
 ```
+* Di seguito viene presentata la dicitura di un metodo, il cui parametro formale accetta una qualunque sottotipo del tipo T:  :books: :eyes:
+```
+public void nome_metodo(classeGenerica<? extends T> nome_variabile){
+	...
+}
+//dove al posto di classeGenerica, possiamo metterci nel nostro caso CoppiaP 
+```
+* Di seguito viene definito un metodo generico che definisce i tipi formali nella segnatura del metodo: :books: :eyes:
+```
+public static <T> int metodoGenerico (Coppia<T> c, T e){
+	...
+}
+```
+
+
 
