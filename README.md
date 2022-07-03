@@ -1,6 +1,7 @@
 # ProgrammazioneOrientataAgliOggetti
 ### RIFERIMENTI
 [GENERICS](#GENERICS)
+[LISTE](#LISTE)
 <!--- GENERICS --->
 # **GENERICS**
 * Cosa sono i Generics? :question:
