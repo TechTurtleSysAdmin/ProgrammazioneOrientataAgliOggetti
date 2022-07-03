@@ -87,6 +87,5 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	...
 }
 ```
-
-
-
+<!--- COLLEZIONI LISTE --->
+# **LISTE**
