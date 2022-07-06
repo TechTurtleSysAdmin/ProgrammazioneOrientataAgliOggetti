@@ -122,3 +122,9 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 		* rimuove dalla collezione gli elementi uguali all'oggetto passato come parametro (l'uguaglianza è verificata dal metodo equals()). Ritorna true se la collezione è cambiata dopo l'invocazione del metodo
 	* Iterator<E> iterator(); :white_check_mark:
 		* restituisce un oggetto Iterator, per iterare sugli elementi della collezione.
+	* boolean containsAll(Collection<?> c); :white_check_mark:
+		* ritorna true se la collezione contiene tutti gli elementi della collezione passata come parametro. 
+	* boolean addAll(Collection<? extends E> c);
+		* aggiunge alla collezione tutti gli elementi della collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo.
+	* boolean removeAll(Collection<?> c);
+		* rimuove dalla collezione tutti gli elementi uguali (l'uguaglianza è verificata dal metodo equals()) che sono contenuti nella collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo
