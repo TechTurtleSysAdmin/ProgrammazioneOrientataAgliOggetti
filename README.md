@@ -116,4 +116,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 		* ritorna il numero di elementi presenti nella collezione.
 	* boolean contains(Object element); :white_check_mark:
 		* ritorna true se la collezione contiene un elemento uguale a quello passato come parametro (l'uguaglianza è verificata dal metodo equals()).
-	
+	* boolean add(E element); :white_check_mark:
+		* aggiunge alla collezione l'elemento passato; ritorna true se la collezione è cambiata dopo la chiamata a questo metodo.
+	* boolean remove(Object element); :white_check_mark:
+		* rimuove dalla collezione gli elementi uguali all'oggetto passato come parametro (l'uguaglianza è verificata dal metodo equals()). Ritorna true se la collezione è cambiata dopo l'invocazione del metodo
