@@ -120,3 +120,5 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 		* aggiunge alla collezione l'elemento passato; ritorna true se la collezione è cambiata dopo la chiamata a questo metodo.
 	* boolean remove(Object element); :white_check_mark:
 		* rimuove dalla collezione gli elementi uguali all'oggetto passato come parametro (l'uguaglianza è verificata dal metodo equals()). Ritorna true se la collezione è cambiata dopo l'invocazione del metodo
+	* Iterator<E> iterator(); :check_mark_question:
+		* restituisce un oggetto Iterator, per iterare sugli elementi della collezione.
