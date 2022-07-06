@@ -1,7 +1,7 @@
 # ProgrammazioneOrientataAgliOggetti
 ### RIFERIMENTI
 * [GENERICS](#GENERICS)
-* [LISTE](#LISTE)
+* [COLLEZIONI-LISTE](#COLLEZIONI-LISTE)
 <!--- GENERICS --->
 # **GENERICS**
 * Cosa sono i Generics? :question:
@@ -91,7 +91,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 }
 ```
 <!--- COLLEZIONI LISTE --->
-# **LISTE**
+# **COLLEZIONI-LISTE**
 * Rappresentazione del java collections framework:   :books: :eyes:
 
 <img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/java_collection_framework.png" width="550" height="400">
@@ -100,7 +100,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 * Cosa dichiare l' interface **Collection<E>**? :question:
 	* I metodi di una collezione generica. :white_check_mark:
 * Cosa è la **List<E>**? :question:
-	* Una collezione sequenziale di elementi che possiedono una posizione, ma in cui **non** vengono gestiti i duplicati. :white_check_mark:
+	* Una collezione sequenziale di elementi che possiedono una posizione e può contenere duplicati. :white_check_mark:
 * Cosa è il **Set<E>**? :question:
 	* Collezione di elementi che non possiedono una posizione e che non contiene duplicati. :white_check_mark:
 * Cosa permettono di fare i metodi di **Collection<E>**? :question:
