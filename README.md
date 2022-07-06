@@ -104,4 +104,9 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 * Cosa è il **Set<E>**? :question:
 	* Collezione di elementi che non possiedono una posizione. :white_check_mark:
 * Cosa permettono di fare i metodi di **Collection<E>**? :question:
-
+	* Aggiungere un elemento alla collezione. :white_check_mark:
+	* Verificare la dimensione della collezione. :white_check_mark:
+	* Verificare se la collezione è vuota. :white_check_mark:
+	* Aggiungere tutti gli elementi di un' altra collezione. :white_check_mark:
+	* Ottenere un iteratore con cui scandire la collezione. :white_check_mark:
+* 
