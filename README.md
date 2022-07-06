@@ -97,7 +97,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 <img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/java_collection_framework.png" width="550" height="400">
 
 
-* Cosa dichiare l' interface **Collection<E>**? :question:
+* Cosa dichiare l' interface **Collection<E>? :question:
 	* I metodi di una collezione generica. :white_check_mark:
 * Cosa è la **List<E>**? :question:
 	* Una collezione sequenziale di elementi che possiedono una posizione e può contenere duplicati. :white_check_mark:
@@ -109,4 +109,4 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	* Verificare se la collezione è vuota. :white_check_mark:
 	* Aggiungere tutti gli elementi di un' altra collezione. :white_check_mark:
 	* Ottenere un iteratore con cui scandire la collezione. :white_check_mark:
-* 
+* Metodi di base di *Collection* 
