@@ -112,4 +112,8 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 * Metodi di base di **Collection&lt;E&gt;**:  :books: :eyes:
 	* boolean isEmpty(); :white_check_mark:
 		* ritorna true se la collezione è vuota.
-	* 
+	* int size(); :white_check_mark:
+		* ritorna il numero di elementi presenti nella collezione.
+	* boolean contains(Object element); :white_check_mark:
+		* ritorna true se la collezione contiene un elemento uguale a quello passato come parametro (l'uguaglianza è verificata dal metodo equals()).
+	
