@@ -99,14 +99,14 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 
 * Cosa dichiare l' interface **Collection&lt;E&gt;**? :question:
 	* I metodi di una collezione generica. :white_check_mark:
-* Cosa è la **List<E>**? :question:
+* Cosa è la **List&lt;E&gt;**? :question:
 	* Una collezione sequenziale di elementi che possiedono una posizione e può contenere duplicati. :white_check_mark:
-* Cosa è il **Set<E>**? :question:
+* Cosa è il **Set&lt;E&gt;**? :question:
 	* Collezione di elementi che non possiedono una posizione e che non contiene duplicati. :white_check_mark:
-* Cosa permettono di fare i metodi di **Collection<E>**? :question:
+* Cosa permettono di fare i metodi di **Collection&lt;E&gt;**? :question:
 	* Aggiungere un elemento alla collezione. :white_check_mark:
 	* Verificare la dimensione della collezione. :white_check_mark:
 	* Verificare se la collezione è vuota. :white_check_mark:
 	* Aggiungere tutti gli elementi di un' altra collezione. :white_check_mark:
 	* Ottenere un iteratore con cui scandire la collezione. :white_check_mark:
-* Metodi di base di *Collection* 
+* Metodi di base di **Collection&lt;E&gt;** 
