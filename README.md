@@ -109,4 +109,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	* Verificare se la collezione è vuota. :white_check_mark:
 	* Aggiungere tutti gli elementi di un' altra collezione. :white_check_mark:
 	* Ottenere un iteratore con cui scandire la collezione. :white_check_mark:
-* Metodi di base di **Collection&lt;E&gt;** 
+* Metodi di base di **Collection&lt;E&gt;**:  :books: :eyes:
+	* boolean isEmpty(); :white_check_mark:
+		* ritorna true se la collezione è vuota.
+	* 
