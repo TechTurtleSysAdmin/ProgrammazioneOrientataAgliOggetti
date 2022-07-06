@@ -94,4 +94,4 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 # **LISTE**
 * Rappresentazione del java collections framework:   :books: :eyes:
 
-<img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/java_collection_framework.png" width="350" height="200">
+<img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/java_collection_framework.png" width="450" height="300">
