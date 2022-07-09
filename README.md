@@ -132,3 +132,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 		* rimuove dalla collezione tutti gli elementi che non sono presenti nella collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo.
 	* **void clear();** :white_check_mark:
 		* rimuove tutti gli elementi dalla collezione
+* Come avviene l' iterazione di una collezione? :question:
+	* Attraverso un oggetto iteratore. :white_check_mark:
+* Come vengono creati gli iteratori? :question:
+	* Invocando il factory method iterator() sulla collezione che si vuole scandire. :white_check_mark:
