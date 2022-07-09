@@ -136,4 +136,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	* Attraverso un oggetto iteratore. :white_check_mark:
 * Come vengono creati gli oggetti iteratori? :question:
 	* Invocando il factory method ```iterator()``` sulla collezione che si vuole scandire. :white_check_mark:
-* l' oggetto iteratore ottenuto attraverso l' invocazione del metodo ```iterator()``` implementa l' interface ```Iterator<E>```  :books: :eyes:
+* l' oggetto iteratore ottenuto attraverso l' invocazione del metodo ```iterator()``` implementa l' interface ```Iterator<E>``` ed è munita dei seguenti metodi: :books: :eyes:
+	* ```hasNext()```
+	* ```next()```
+
