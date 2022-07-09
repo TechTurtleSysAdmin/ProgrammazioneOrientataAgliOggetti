@@ -134,5 +134,6 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 		* rimuove tutti gli elementi dalla collezione
 * Come avviene l' iterazione di una collezione? :question:
 	* Attraverso un oggetto iteratore. :white_check_mark:
-* Come vengono creati gli iteratori? :question:
+* Come vengono creati gli oggetti iteratori? :question:
 	* Invocando il factory method iterator() sulla collezione che si vuole scandire. :white_check_mark:
+* l' oggetto iteratore ottenuto attraverso l' invocazione del metodo iterator() implementa l' interface ```Iterator<E>```  :books: :eyes:
