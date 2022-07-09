@@ -110,25 +110,25 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	* Aggiungere tutti gli elementi di un' altra collezione. :white_check_mark:
 	* Ottenere un iteratore con cui scandire la collezione. :white_check_mark:
 * Metodi di base di **Collection&lt;E&gt;**:  :books: :eyes:
-	* boolean isEmpty(); :white_check_mark:
+	* **boolean isEmpty();** :white_check_mark:
 		* ritorna true se la collezione è vuota.
-	* int size(); :white_check_mark:
+	* **int size();** :white_check_mark:
 		* ritorna il numero di elementi presenti nella collezione.
-	* boolean contains(Object element); :white_check_mark:
+	* **boolean contains(Object element);** :white_check_mark:
 		* ritorna true se la collezione contiene un elemento uguale a quello passato come parametro (l'uguaglianza è verificata dal metodo equals()).
-	* boolean add(E element); :white_check_mark:
+	* **boolean add(E element);** :white_check_mark:
 		* aggiunge alla collezione l'elemento passato; ritorna true se la collezione è cambiata dopo la chiamata a questo metodo.
-	* boolean remove(Object element); :white_check_mark:
+	* **boolean remove(Object element);** :white_check_mark:
 		* rimuove dalla collezione gli elementi uguali all'oggetto passato come parametro (l'uguaglianza è verificata dal metodo equals()). Ritorna true se la collezione è cambiata dopo l'invocazione del metodo
-	* Iterator<E> iterator(); :white_check_mark:
+	* **Iterator<E> iterator();** :white_check_mark:
 		* restituisce un oggetto Iterator, per iterare sugli elementi della collezione.
-	* boolean containsAll(Collection<?> c); :white_check_mark:
+	* **boolean containsAll(Collection<?> c);** :white_check_mark:
 		* ritorna true se la collezione contiene tutti gli elementi della collezione passata come parametro. 
-	* boolean addAll(Collection<? extends E> c); :white_check_mark:
+	* **boolean addAll(Collection<? extends E> c);** :white_check_mark:
 		* aggiunge alla collezione tutti gli elementi della collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo.
-	* boolean removeAll(Collection<?> c); :white_check_mark:
+	* **boolean removeAll(Collection<?> c);** :white_check_mark:
 		* rimuove dalla collezione tutti gli elementi uguali (l'uguaglianza è verificata dal metodo equals()) che sono contenuti nella collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo.
-	* boolean retainAll(Collection<?> c); :white_check_mark:
+	* **boolean retainAll(Collection<?> c);** :white_check_mark:
 		* rimuove dalla collezione tutti gli elementi che non sono presenti nella collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo.
 	* **void clear();** :white_check_mark:
 		* rimuove tutti gli elementi dalla collezione
