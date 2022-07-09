@@ -130,5 +130,5 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 		* rimuove dalla collezione tutti gli elementi uguali (l'uguaglianza è verificata dal metodo equals()) che sono contenuti nella collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo.
 	* boolean retainAll(Collection<?> c); :white_check_mark:
 		* rimuove dalla collezione tutti gli elementi che non sono presenti nella collezione passata come parametro; ritorna true se la collezione è cambiata dopo l'invocazione di questo metodo.
-	* void clear(); :white_check_mark:
+	* **void clear();** :white_check_mark:
 		* rimuove tutti gli elementi dalla collezione
