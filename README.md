@@ -133,7 +133,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	* ```void clear();``` :white_check_mark:
 		* rimuove tutti gli elementi dalla collezione
 * Come avviene l' iterazione di una collezione? :question:
-	* Attraverso un oggetto iteratore. :white_check_mark:
+	* Attraverso un oggetto iteratore, che fondamentalemente può essere visto come un **cursore** con due posizioni lecite (subito prima o subito dopo un elemento della collezione) :white_check_mark:
 * Come vengono creati gli oggetti iteratori? :question:
 	* Invocando il factory method ```iterator()``` sulla collezione che si vuole scandire. :white_check_mark:
 * l' oggetto iteratore ottenuto attraverso l' invocazione del metodo ```iterator()``` implementa l' interface ```Iterator<E>``` ed è munita dei seguenti metodi: :books: :eyes:
