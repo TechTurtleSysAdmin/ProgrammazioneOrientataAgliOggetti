@@ -141,4 +141,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	* ```hasNext()``` : ritorna **true** se e solo se esiste un altro elemento da scandire.
 	* ```next()``` : restituisce il prossimo elemento della collezione nella scansione corrente e avanza.
 * Cosa significa il seguente errore  ```java.util.NoSuchElementException```:question:
+	* Eccezione che viene generata quando si raggiunge la fine della collezione.
+* Come si evita questa eccezione ```java.util.NoSuchElementException``` :question:
+	* Prima si vede se esiste un elemento successivo (quindi andiamo a chiamare il metodo ```hasNext()```), poi continuiamo a scorrere con il metodo ```next()```
 
