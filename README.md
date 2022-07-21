@@ -143,5 +143,5 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 * Cosa significa il seguente errore  ```java.util.NoSuchElementException```:question:
 	* Eccezione che viene generata quando si raggiunge la fine della collezione.
 * Come si evita questa eccezione ```java.util.NoSuchElementException``` :question:
-	* Prima si vede se esiste un elemento successivo ( quindi andiamo a chiamare il metodo ```hasNext()``` ), poi continuiamo a scorrere la lista ( quindi andremo ad utilizzare il metodo ```next()``` )
+	* Prima si vede se esiste un elemento successivo ( quindi andiamo a chiamare il metodo ```hasNext()``` ), poi continuiamo a scorrere o meno la lista ( quindi andremo ad utilizzare il metodo ```next()``` )
 
