@@ -140,5 +140,5 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 * l' oggetto iteratore ottenuto attraverso l' invocazione del metodo ```iterator()``` implementa l' interface ```Iterator<E>``` ed è munita dei seguenti metodi: :books: :eyes:
 	* ```hasNext()``` : ritorna **true** se e solo se esiste un altro elemento da scandire.
 	* ```next()``` : restituisce il prossimo elemento della collezione nella scansione corrente e avanza.
-* Cosa significa il seguente errore  ```java.util.NoSuchElementException``` :question:
+* Cosa significa il seguente errore  ```java.util.NoSuchElementException```:question:
 
