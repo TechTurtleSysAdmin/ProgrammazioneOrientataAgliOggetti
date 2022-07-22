@@ -142,7 +142,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 	* ```next()``` : restituisce il prossimo elemento della collezione nella scansione corrente e avanza.
 * Cosa significa il seguente errore  ```java.util.NoSuchElementException```:question:
 	* Eccezione che viene generata quando si raggiunge la fine della collezione. :white_check_mark:
-
+<img src="https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/img/NoSuchElementException.png" width="300" height="100">
 * Come si evita questa eccezione ```java.util.NoSuchElementException``` :question:
 	* Prima si vede se esiste un elemento successivo ( quindi andiamo a chiamare il metodo ```hasNext()``` ), poi continuiamo a scorrere o meno la lista ( quindi andremo ad utilizzare o meno il metodo ```next()``` ) :white_check_mark:
 * Leggere i test fatti sui metodi dell' oggetto iteratore per comprendere al meglio il loro funzionamento: 
