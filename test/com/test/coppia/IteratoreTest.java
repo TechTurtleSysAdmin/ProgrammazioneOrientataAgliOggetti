@@ -45,5 +45,19 @@ public class IteratoreTest {
 		assertTrue(it.hasNext());
 		assertSame(this.solitario, it.next());
 	}
+	
+	@Test
+	public void testNext_suListaDiDueElementi() {
+		List<String> doppietta = new ArrayList<>();
+		doppietta.add(new String("primo"));
+		doppietta.add(new String("secondo"));
+		Iterator<String> it = doppietta.iterator();
+		assertNotNull(it);
+		assertTrue(it.hasNext());
+		assertEquals("primo",it.next());
+		assertTrue(it.hasNext());
+		assertEquals("secondo",it.next());
+		assertFalse(it.hasNext());
+	}
 
 }
