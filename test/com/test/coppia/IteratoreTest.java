@@ -44,8 +44,6 @@ public class IteratoreTest {
 		assertNotNull(it);
 		assertTrue(it.hasNext());
 		assertSame(this.solitario, it.next());
-		System.out.println(this.solitario);
-		System.out.println(it);
 	}
 
 }
