@@ -143,7 +143,7 @@ public static <T> int metodoGenerico (Coppia<T> c, T e){
 * Cosa significa il seguente errore  ```java.util.NoSuchElementException```:question:
 	* Eccezione che viene generata quando si raggiunge la fine della collezione. :white_check_mark:
 * Come si evita questa eccezione ```java.util.NoSuchElementException``` :question:
-	* Prima si vede se esiste un elemento successivo ( quindi andiamo a chiamare il metodo ```hasNext()``` ), poi continuiamo a scorrere o meno la lista ( quindi andremo ad utilizzare il metodo ```next()``` ) :white_check_mark:
+	* Prima si vede se esiste un elemento successivo ( quindi andiamo a chiamare il metodo ```hasNext()``` ), poi continuiamo a scorrere o meno la lista ( quindi andremo ad utilizzare o meno il metodo ```next()``` ) :white_check_mark:
 * Leggere i test fatti sui metodi dell' oggetto iteratore per comprendere al meglio il loro funzionamento: 
 	* [testIteratore](https://github.com/FabioR1995/ProgrammazioneOrientataAgliOggetti/blob/main/test/com/test/coppia/IteratoreTest.java) :books: :eyes:
 
